@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "microgrid"
-    ]
+    ],
+    "terminal.integrated.scrollback": 10000
 }
