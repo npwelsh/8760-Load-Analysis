@@ -3,7 +3,7 @@
 ## 1.	Overview 
 This python script is to take the output 8760 CVS files  produced by the HOMER microgrid software and produce a summary of the data.  That summary includes number of hours with capacity shortage, the number of hours battery capacity is below 30%, the System Average Interruption Duration Index in number of hours of outage in a year, the System Average Interruption Frequency Index in number of distinct outages per year, and total number of days with outages.  It also produces a file with a summary of each of those outages, both as a spreadsheet and a heat map.  The goal of this is to provide additional metrics and insights to multiple load profiles and system sizes for 100% renewable energy microgrid, to compare against with the other outputs from HOMER to see what system meet the most reliability metrics 
 
-## 2.	How to run Code 
+## 2.	How to Run Code 
 The script was built with MiniConda installation of Python in a Juptyer notebook. The code should run with your preferred method of running Jupyter notebooks.  If not, here is a step by step method to run the code. 
 1.	Install MiniConda 
 2.	Open Jupyter Notebook App.  The App will open a page in your browser 
