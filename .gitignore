@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#extensions 
+.exe
+
 # Distribution / packaging
 .Python
 build/
@@ -170,3 +173,39 @@ build_env/Scripts/pip3.exe
 build_env/Scripts/pip3.12.exe
 build_env/Scripts/python.exe
 build_env/Scripts/pythonw.exe
+build_env/Scripts/f2py.exe
+build_env/Scripts/fonttools.exe
+build_env/Scripts/numpy-config.exe
+build_env/Scripts/pyftmerge.exe
+build_env/Scripts/pyftsubset.exe
+build_env/Scripts/pyi-archive_viewer.exe
+build_env/Scripts/pyi-bindepend.exe
+build_env/Scripts/pyi-grab_version.exe
+build_env/Scripts/pyi-makespec.exe
+build_env/Scripts/pyi-set_version.exe
+build_env/Scripts/pyinstaller.exe
+build_env/Scripts/ttx.exe
+build_env/share/man/man1/ttx.1
+myenv/pyvenv.cfg
+myenv/Scripts/activate
+myenv/Scripts/activate.bat
+myenv/Scripts/Activate.ps1
+myenv/Scripts/deactivate.bat
+myenv/Scripts/f2py.exe
+myenv/Scripts/fonttools.exe
+myenv/Scripts/numpy-config.exe
+myenv/Scripts/pip.exe
+myenv/Scripts/pip3.12.exe
+myenv/Scripts/pip3.exe
+myenv/Scripts/pyftmerge.exe
+myenv/Scripts/pyftsubset.exe
+myenv/Scripts/pyi-archive_viewer.exe
+myenv/Scripts/pyi-bindepend.exe
+myenv/Scripts/pyi-grab_version.exe
+myenv/Scripts/pyi-makespec.exe
+myenv/Scripts/pyi-set_version.exe
+myenv/Scripts/pyinstaller.exe
+myenv/Scripts/python.exe
+myenv/Scripts/pythonw.exe
+myenv/Scripts/ttx.exe
+myenv/share/man/man1/ttx.1

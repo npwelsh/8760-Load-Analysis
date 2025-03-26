@@ -1,5 +1,5 @@
 # # 8760 Load Analysis v.0.0.1
-# ## Purpose
+# ## Purposea
 # The goal of this code is to take 8760 .csv files from electrical systems and analyze when and where the load is not being met. It was specifically designed with the output from the HOMER microgrid software in mind. 
 
 # %%
@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt 
 from tkinter import Tk, filedialog, Label, Button, Entry, messagebox
-import seaborn as sns
+import seaborn as snsup
 import os 
 import pathlib
 from glob  import glob
